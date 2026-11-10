@@ -27,3 +27,6 @@ Dashboard Features
 Objective
 
 To analyze customer behavior and provide insights that can help businesses improve customer retention.
+## Dashboard Preview
+
+![Customer Churn Dashboard](../Customer-Churn-Analysis.png)
