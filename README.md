@@ -29,6 +29,14 @@ Key Metrics:
 - Churn Rate: 26.54%
 - Churned Customers: 1,869
 
+  
+2. Grocery Sales Analysis – Power BI
+
+- Grocery sales, quantity, profit and profitability analysis.
+- Monthly and daily sales trends.
+- Payment mode, product and category-wise sales.
+- "View Project" (Grocery sales analysis/README.md)
+
 🎓 Education
 
 Bachelor of Computer Applications (BCA)
